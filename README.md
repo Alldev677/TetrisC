@@ -12,7 +12,5 @@ This is a clone of the classic Tetris.
 - Fully open source code for study or modification 
 ---
 I’m sorry, there is no precompiled version for Windows at the moment.  
-If you need a Windows version, you can compile it yourself using the following command:
-
-gcc Tetris.c -o AllTetris -lSDL2 -lSDL2_mixer -lm
+If you need a Windows version, you can compile it yourself
 ---
